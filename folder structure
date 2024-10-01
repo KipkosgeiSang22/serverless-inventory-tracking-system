@@ -1,0 +1,17 @@
+/InventoryTrackingSystem
+├── /lambda_functions
+│   ├── load_inventory.py
+│   ├── check_stock.py
+├── /sample_data
+│   ├── inventory-berlin.csv
+│   ├── inventory-calcutta.csv
+│   ├── inventory-karachi.csv
+│   ├── inventory-pusan.csv
+│   ├── inventory-shanghai.csv
+│   └── inventory-springfield.csv
+├── /screenshots (optional)
+│   ├── s3_bucket_setup.png
+│   ├── lambda_function_logs.png
+│   └── sns_email_notification.png
+├── README.md
+└── .gitignore
